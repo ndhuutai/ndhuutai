@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tai Ng's github stats](https://github-readme-stats.vercel.app/api?username=ndhuutai)](https://github.com/anuraghazra/github-readme-stats)
+[![Tai Ng's github stats](https://github-readme-stats.vercel.app/api?username=ndhuutai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndhuutai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
