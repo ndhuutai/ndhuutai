@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Tai Ng's github stats](https://github-readme-stats.vercel.app/api?username=ndhuutai&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndhuutai&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndhuutai&exclude_repo=neo-one-build,neo-one-v3-build&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
